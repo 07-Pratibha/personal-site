@@ -4,7 +4,7 @@ favouriteFruit("regular")
 
 favouriteMode("dark")
 
-favouriteEdgeStyle("round")
+favouriteEdgeStyle("regular")
 
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
